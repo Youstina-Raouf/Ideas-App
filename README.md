@@ -5,10 +5,6 @@ A shared ideas board built with **Flutter** and **Firebase**. Users create an ac
 ## Screenshots
 
 <p align="center">
-  <img src="docs/login.jpg" alt="Login screen" width="220">
-  &nbsp;
-  <img src="docs/create-account.jpg" alt="Create account screen" width="220">
-  &nbsp;
   <img src="docs/ideas-list.jpg" alt="Ideas board" width="220">
   &nbsp;
   <img src="docs/add-idea.jpg" alt="Add idea screen" width="220">
