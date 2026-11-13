@@ -1,0 +1,4 @@
+// Copy this file to firebase_auth_config.dart and paste your own Firebase
+// Web API key (Firebase console > Project settings > General > Web API Key).
+// firebase_auth_config.dart is not committed to the repository.
+const String firebaseWebApiKey = 'YOUR_FIREBASE_WEB_API_KEY';
