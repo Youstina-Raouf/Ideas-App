@@ -113,7 +113,6 @@ flutter test
 ```
 
 ## Known Limitations and Ideas
-- Android **release** builds need the `INTERNET` permission added to `android/app/src/main/AndroidManifest.xml`; only the debug and profile manifests have it
 - Every idea shows a delete button, even for ideas written by other users. The database rules above stop the request, but the app does not hide the button
 - There is no edit screen and no password reset
 - Ideas: show the author's name instead of the user ID, add an edit screen and search
